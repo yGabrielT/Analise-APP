@@ -38,8 +38,7 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
   ![YoutubeMusic Free](https://user-images.githubusercontent.com/95586355/234721963-3905c040-5b3d-44ad-92ee-eca35bd941e5.png)
     O conteúdo gratuito permite aos usuários ouvir música online, mas com algumas limitações. Os usuários podem ouvir músicas em modo aleatório e com anúncios publicitários entre as músicas. Além disso, o conteúdo gratuito não permite o download de músicas para ouvir offline.
   - **Premium:**
-  ![YoutubeMusic Free](https://user-images.githubusercontent.com/95586355/234723237-6e4f62b4-b9cf-447c-aca7-0ef03f111a60.png)
-
+![Youtube Music premium](https://user-images.githubusercontent.com/95586355/234723381-6e0d033b-4291-419d-a11b-8d53607b72ca.png)
      Já o conteúdo premium do YouTube Music oferece uma experiência musical mais completa. Com a assinatura premium, os usuários podem ouvir música sem limitações, escolher músicas específicas, criar suas próprias playlists e fazer o download de músicas para ouvir offline. Além disso, o conteúdo premium oferece uma qualidade de áudio superior, com a possibilidade de ouvir músicas em alta definição. Outra vantagem do conteúdo premium é a ausência de anúncios publicitários entre as músicas.
 
 

@@ -68,7 +68,13 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
    ##### Spotify
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235125603-9c7ac279-c047-4633-84e7-3e59cb9a5787.png" alt="Spotify" width="50" height="50"/>   
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235128850-9a7c1b84-a17d-41cc-b4d8-491d5dfbf3a8.png" alt="Spotify" width="50" height="50"/>
-<img align="left" src="https://user-images.githubusercontent.com/95586355/235125603-9c7ac279-c047-4633-84e7-3e59cb9a5787.png" alt="Spotify" width="50" height="50"/>
-No botão de iniciar do Spotify tem o imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários.
-
-
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235158049-85f314bb-c993-4308-baf3-93a88e7ceef6.png" alt="Spotify" width="50" height="50"/>
+Nos botões: "Home", "Pesquisa" e "Biblioteca" do Spotify tem o imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários.
+<br>
+<br>
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235160457-24892a32-5284-4517-a7fb-fb6a666a08e5.png" alt="Spotify" width="200" height="100"/>
+Ao lado desse imageButton tem um Button com texto dentro no qual cita a playlist mostrada na imagem.
+<br>
+<br>
+<br>
+<br>

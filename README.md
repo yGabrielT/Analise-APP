@@ -64,19 +64,62 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
    - Os aplicativos permite que os usúarios entrem em tela cheia durante a reprodução de músicas, o que pode ser útil para informações adicionais como a letra e a capa do álbum.
    - Apresentam listas de reproduções recomendadas, playlists personalizadas e populares no público.
    - Todos têm opções de assinatura paga para acesso sem anúncios, download das músicas para ouvir offline e outras vantagens do premium.
-   ## Disposição dos elementos na tela
+   ## Elementos na tela
    ##### Spotify
+   <div>
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235125603-9c7ac279-c047-4633-84e7-3e59cb9a5787.png" alt="Spotify" width="50" height="50"/>   
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235128850-9a7c1b84-a17d-41cc-b4d8-491d5dfbf3a8.png" alt="Spotify" width="50" height="50"/>
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235158049-85f314bb-c993-4308-baf3-93a88e7ceef6.png" alt="Spotify" width="50" height="50"/>
-Nos botões: "Home", "Pesquisa" e "Biblioteca" do Spotify tem o imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários.
+Nos botões: "Home", "Pesquisa" e "Biblioteca" do Spotify se ve um imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários. Essa mesma barra é usada em todos os outros aplicativos listados.
+</div>
 <br>
-<br>
-<img align="left" src="https://user-images.githubusercontent.com/95586355/235160457-24892a32-5284-4517-a7fb-fb6a666a08e5.png" alt="Spotify" width="200" height="100"/>
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235227550-cb3375f7-083a-4f36-b9ad-c668d8703705.png" alt="Spotify" width="300" height="150"/>
 
+ - É possível ver que é usado diversos imagebuttons nessa imagem, além disso tem também um Text “Good morning” acima de todos. O Text possibiliza ser alterado no XML para ter tamanhos, cores, alinhamentos e estilos diferentes.
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235250067-0d7a8770-62af-4fcf-aaef-c1b2228db230.png" alt="Spotify" width="400" height="150"/>
+A barra de pesquisa do Spoyify e de todos os outros aplicativos possuem um elemento denominado "Text Plain" que participa da categoria dos Text Fields. Nesse tipo de elemento o usuário pode digitar tanto com letras como numéros no campo de pesquisa.
+<br>
+<br>
+<br>
+
+   ##### Deezer
+   <div>
+   <img align="left" src="https://user-images.githubusercontent.com/95586355/235242202-c918afb6-07bf-4136-886c-5072944d1426.png" alt="Spotify" width="300" height="150"/>
+   
+   - O Deezer possui um layout parecido ao do spotify tendo como diferença imageButtons sem um text abaixo.
+   </div>
+   <br><br><br><br><br>
+   <div>
+   <img align="left" src="https://user-images.githubusercontent.com/95586355/235243240-3366cff1-4f13-431e-840d-56100f392c39.png" alt="Spotify" width="300" height="200"/>
+   
+  - É visto que tem diferentes image's dentro desse grid layout podendo ter a interação do usuario. Grid Layout é um metodo para organizar elementos de uma maneira responsiva e simples, isso pode ser personalizado de maneiras diferentes para diversas propostas.
+</div>
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+
+##### Youtube Music
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235246841-2ea1dcea-a994-43bb-9864-6570739d24f3.png" alt="Spotify" width="300" height="200"/>
+A logo do Youtube Music no topo da página é criada a partir de uma image onde não há interação, assim como o icone de perfil do usuário seguido com dois text's de diferentes tamanhos. <br>
+Também há alguns buttons acima com opções que levam para uma transição de página.
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 

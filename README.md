@@ -54,11 +54,16 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
  
   ## Diferenças:
   - Todos possuem preços variados para planos de assinatura premium.
-  - Possuem recursos adicionais, como o spotify que diferente dos outros apresenta Podcasts como parte do catálogo e o Youtube Music que oferece uma integração com o Youtube para assistir a vídeos de música.
+  - Possuem recursos adicionais, como o Spotify e o Deezer que diferente do Youtube Music apresenta Podcasts como parte do catálogo, Youtube Music que oferece uma integração com o Youtube para assistir a vídeos de música e o Deezer que possue a possibilidade de escutar rádio ao vivo.
   - Alguns catálogos de música podem não aparecer entre os serviços, com alguns tendo mais ênfase em determinados gêneros musicais.
   - A qualidade do áudio pode ser diferente entre os serviços.
   - Todos tem um layout de tela inicial diferente. O Spotify e o Deezer apresentam uma lista de recomendações personalizadas e pessoais, enquanto o Youtube Music apenas apresenta artistas e listas com base nos seus interesses pessoais.
-  - 
-
+  
+   ## Semelhanças:
+   - Todos possuem uma barra de pesquisa, explorar e uma biblicoteca que oferece acesso mais rápido ao conteúdo dos aplicativos.
+   - Os aplicativos permite que os usúarios entrem em tela cheia durante a reprodução de músicas, o que pode ser útil para informações adicionais como a letra e a capa do álbum.
+   - Apresentam listas de reproduções recomendadas, playlists personalizadas e populares no público.
+   - Todos têm opções de assinatura paga para acesso sem anúncios, download das músicas para ouvir offline e outras vantagens do premium.
+   
 </hr>
 

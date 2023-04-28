@@ -175,3 +175,6 @@ No modo online do plano gratuito, todos os aplicativos mencionados exigem que o 
 Em resumo, os aplicativos mencionados oferecem recursos offline, mas é necessário pagar pelo plano premium para ter acesso a esses recursos. No plano gratuito, é necessário estar conectado à internet para ouvir as músicas.
  
  </p>
+ 
+ ![image](https://user-images.githubusercontent.com/95586355/235262174-9bd415ce-d46a-410d-a7cd-02a88dbb95dd.png)
+

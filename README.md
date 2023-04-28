@@ -73,8 +73,10 @@ Nos botões: "Home", "Pesquisa" e "Biblioteca" do Spotify tem o imageButton, é 
 <br>
 <br>
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235160457-24892a32-5284-4517-a7fb-fb6a666a08e5.png" alt="Spotify" width="200" height="100"/>
-Ao lado desse imageButton tem um Button com texto dentro no qual cita a playlist mostrada na imagem.
+
 <br>
 <br>
 <br>
 <br>
+<br>
+

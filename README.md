@@ -64,6 +64,11 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
    - Os aplicativos permite que os usúarios entrem em tela cheia durante a reprodução de músicas, o que pode ser útil para informações adicionais como a letra e a capa do álbum.
    - Apresentam listas de reproduções recomendadas, playlists personalizadas e populares no público.
    - Todos têm opções de assinatura paga para acesso sem anúncios, download das músicas para ouvir offline e outras vantagens do premium.
-   
-</hr>
+   ## Disposição dos elementos na tela
+   ##### Spotify
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235125603-9c7ac279-c047-4633-84e7-3e59cb9a5787.png" alt="Spotify" width="50" height="50"/>   
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235128850-9a7c1b84-a17d-41cc-b4d8-491d5dfbf3a8.png" alt="Spotify" width="50" height="50"/>
+<img align="left" src="https://user-images.githubusercontent.com/95586355/235125603-9c7ac279-c047-4633-84e7-3e59cb9a5787.png" alt="Spotify" width="50" height="50"/>
+No botão de iniciar do Spotify tem o imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários.
+
 

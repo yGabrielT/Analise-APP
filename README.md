@@ -112,7 +112,7 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235128850-9a7c1b84-a17d-41cc-b4d8-491d5dfbf3a8.png" alt="Spotify" width="50" height="50"/>
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235158049-85f314bb-c993-4308-baf3-93a88e7ceef6.png" alt="Spotify" width="50" height="50"/>
  
- - Nos botões: "Home", "Pesquisa" e "Biblioteca" do Spotify se ve um imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários. Essa mesma barra é usada em todos os outros aplicativos listados.
+ - Nos botões: "Home", "Pesquisa" e "Biblioteca" do **Spotify** se ve um imageButton, é usado para exibir um botão normal com uma imagem personalizada em um botão. Em palavras simples podemos dizer, ImageButton é um botão com uma imagem que pode ser pressionada ou clicada pelos usuários. Essa mesma barra é usada em todos os outros aplicativos listados.
 </div>
 <br>
 <div>
@@ -127,7 +127,7 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
 
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235250067-0d7a8770-62af-4fcf-aaef-c1b2228db230.png" alt="Spotify" width="400" height="150"/>
 
- - A barra de pesquisa do Spoyify e de todos os outros aplicativos possuem um elemento denominado "Text Plain" que participa da categoria dos Text Fields. Nesse tipo de elemento o usuário pode digitar tanto com letras como numéros no campo de pesquisa.
+ - A barra de pesquisa do **Spotify** e de todos os outros aplicativos possuem um elemento denominado "Text Plain" que participa da categoria dos Text Fields. Nesse tipo de elemento o usuário pode digitar tanto com letras como numéros no campo de pesquisa.
 <br>
 <br>
 <br>
@@ -136,7 +136,7 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
    <div>
    <img align="left" src="https://user-images.githubusercontent.com/95586355/235242202-c918afb6-07bf-4136-886c-5072944d1426.png" alt="Spotify" width="300" height="150"/>
    
-   - O Deezer possui um layout parecido ao do spotify tendo como diferença imageButtons sem um text abaixo.
+   - O **Deezer** possui um layout parecido ao do Spotify tendo como diferença imageButtons sem um text abaixo.
    </div>
    <br><br><br><br><br>
    <div>
@@ -155,7 +155,7 @@ Os aplicativos de streaming de música são plataformas digitais que permitem ao
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/95586355/235246841-2ea1dcea-a994-43bb-9864-6570739d24f3.png" alt="Spotify" width="300" height="200"/>
  
- - A logo do Youtube Music no topo da página é criada a partir de um icon onde não há interação, assim como o icone de perfil do usuário seguido com dois text's de diferentes tamanhos. <br>
+ - A logo do **Youtube Music** no topo da página é criada a partir de um icon onde não há interação, assim como o icone de perfil do usuário seguido com dois text's de diferentes tamanhos. <br>
 Também há alguns buttons acima com opções que levam para uma transição de página.
 </div>
 <br>
@@ -176,5 +176,12 @@ Em resumo, os aplicativos mencionados oferecem recursos offline, mas é necessá
  
  </p>
  
+ ## Visão dos elementos
+ 
+ #### Spotify
+ 
  ![image](https://user-images.githubusercontent.com/95586355/235262174-9bd415ce-d46a-410d-a7cd-02a88dbb95dd.png)
 
+ #### Deezer e Youtube Music
+ 
+ ![image](https://user-images.githubusercontent.com/95586355/235265005-751188e4-f633-4214-9fd5-a6313a72b49d.png)
